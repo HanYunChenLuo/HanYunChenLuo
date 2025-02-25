@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @HanYunChenLuo
-- 👀 I’m interested in Rendering Engine
+- 👀 A Ruster, 
+- 👀 Interested in GUI and Rendering Engine
 - 📫 How to reach me : wangjinhanhycl@gmail.com
 
 <!---
